@@ -1,3 +1,8 @@
-# LearningMaterials
-This is used to record my journey of learning computer technology, to facilitate the search for relevant materials. At the same time, I sincerely hope that everyone can actively participate in the discussion. Let's strive together.<br>
-In October 2025, we will be preparing for the Huawei ICT basic software market segment. Subsequent updates of learning materials
+#Artificial Intelligence (Self-Improvement)<br>
+Explanation: Currently, the major AI models in both domestic and international fields are as follows: in China, there are Qianwan and Douba; abroad, there are Chatgpt, Gemini, and Grok.<br>
+Take Alibaba's "Qianwan" as an example (the largest model I have used for the longest time). Advantages: 1. The text output is more human-like compared to Douba and other domestic large models. 2. For simple code issues, they can be resolved satisfactorily. 
+Disadvantages: 1. When writing HTML code, images are provided but there is no guarantee of identical ones. 2. It's impossible to summarize the video. 3. The lag of information (the search results for postgraduate exam information are very different from the official ones) 4. Personally, I feel that many things have not been fully presented, but only selectively outputted content. 5. Sometimes the artificial intelligence model may fabricate methods and data for us.<br>
+Main issue: The charges are significantly different from what was expected.<br>
+So, I began to develop my own artificial intelligence (on the path of self-evolution), and started to search for materials to learn and acquire knowledge (with updates conducted every month).<br>
+Ideal: Artificial Intelligence Solutions  1. Solve the problem of mobile phone clicks with just one sentence (ordering food, comparing prices on various platforms, navigation routes on Gaode, taxi booking platforms)  2. Combine artificial intelligence with industry (computer vision integration, risk self-retrieval)  3. Automate office work (generating tables, Word, PPT)  4. Assist learning (self-expanding knowledge)<br>
+So, the artificial intelligence began to evolve on its own, learning knowledge to build a personal artificial intelligence model. (Update will be available in one month)
