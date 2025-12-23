@@ -1,8 +1,30 @@
-#Artificial Intelligence (Self-Improvement)<br>
-Explanation: Currently, the major AI models in both domestic and international fields are as follows: in China, there are Qianwan and Douba; abroad, there are Chatgpt, Gemini, and Grok.<br>
-Take Alibaba's "Qianwan" as an example (the largest model I have used for the longest time). Advantages: 1. The text output is more human-like compared to Douba and other domestic large models. 2. For simple code issues, they can be resolved satisfactorily. 
-Disadvantages: 1. When writing HTML code, images are provided but there is no guarantee of identical ones. 2. It's impossible to summarize the video. 3. The lag of information (the search results for postgraduate exam information are very different from the official ones) 4. Personally, I feel that many things have not been fully presented, but only selectively outputted content. 5. Sometimes the artificial intelligence model may fabricate methods and data for us.<br>
-Main issue: The charges are significantly different from what was expected.<br>
-So, I began to develop my own artificial intelligence (on the path of self-evolution), and started to search for materials to learn and acquire knowledge (with updates conducted every month).<br>
-Ideal: Artificial Intelligence Solutions  1. Solve the problem of mobile phone clicks with just one sentence (ordering food, comparing prices on various platforms, navigation routes on Gaode, taxi booking platforms)  2. Combine artificial intelligence with industry (computer vision integration, risk self-retrieval)  3. Automate office work (generating tables, Word, PPT)  4. Assist learning (self-expanding knowledge)<br>
-So, the artificial intelligence began to evolve on its own, learning knowledge to build a personal artificial intelligence model. (Update will be available in one month)
+# Artificial Intelligence
+
+## Explanation
+目前国内外主要的AI模型如下：在中国有“千问”、“斗霸”；而在国外则有ChatGPT、Gemini和Grok等。
+
+以阿里巴巴的“千问”为例（这是我使用时间最长、规模最大的模型）。
+
+### Advantages
+1. 相较于斗霸等其他国内大型模型，文本输出更加人性化。
+2. 对于简单的代码问题，能够较为满意地解决。
+
+### Disadvantages
+1. 在编写HTML代码时，虽然提供了图片但不能保证完全一致。
+2. 无法对视频进行总结。
+3. 信息滞后（研究生考试信息搜索结果与官方提供的有很大差异）。
+4. 个人感觉很多东西没有完整呈现，只是选择性地输出了部分内容。
+5. 有时候AI模型可能会为我们捏造方法和数据。
+
+### Main Issue
+收费情况与预期存在显著差异。
+
+鉴于以上情况，我决定开始开发自己的人工智能（走自我进化的道路），并着手寻找学习材料获取知识（每月更新）。
+
+## Ideal: Artificial Intelligence Solutions
+1. 只需一句话就能解决手机点击的问题（如点餐、各大平台比价、高德导航路线、打车平台预订等）。
+2. 将人工智能与行业结合（例如计算机视觉集成、风险自检索）。
+3. 自动化办公（生成表格、Word、PPT等）。
+4. 辅助学习（自我扩展知识）。
+
+因此，这个人工智能开始了自己的进化之路，通过学习知识来构建一个个性化的AI模型。（一个月后将进行更新）
